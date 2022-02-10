@@ -2,7 +2,7 @@
 
 class: CommandLineTool
 id: Md5sum
-label: Simple md5sum tool
+label: Simple md5sum tool (branched)
 cwlVersion: v1.0
 
 $namespaces:
